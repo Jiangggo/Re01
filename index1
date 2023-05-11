@@ -11,7 +11,7 @@
 		text-align:center;
 		padding:30px;
 		'>
-			<image src="mira.svg" alt="miar" width= 100px>
+			<image src="https://github.com/Jiangggo/Re01/edit/main/mira.svg" alt="miar" width= 100px>
 		</DIV>
 		<div style = '
 		color:purple; 
@@ -29,7 +29,7 @@
 		padding:30px;
 		font-size:12px;
 		'>
-		<p>我的网站</p>
+		<p>我的网站1.1</p>
 		<a href='https://www.baidu.com'>点击跳转</a>
 		
 		</div>
